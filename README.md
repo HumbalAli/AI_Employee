@@ -12,7 +12,7 @@ This system operates as a **true autonomous employee**:
 
 | Metric | Traditional Employee | AI Employee |
 |--------|---------------------|-------------|
-| **Cost/month** | $5,000+ | ~$50 (API costs) |
+| **Cost/month** | $5,000+ | ~$50 (API costs) / Or use free AI models |
 | **Hours** | 40/week | 168/week (24/7) |
 | **Response Time** | Hours | Seconds |
 | **Consistency** | Varies | Always same quality |
